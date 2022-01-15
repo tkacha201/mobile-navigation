@@ -30,9 +30,13 @@ html {
 
 .navbar-menu {
   display: block;
+  width: 100px;
+  height: 100px;
 }
 .navbar-burger {
   display: none;
+  width: 100px;
+  height: 100px;
 }
 @media only screen and (max-width: 600px) {
   .navbar-menu {
